@@ -1,0 +1,184 @@
+{
+  "source": "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "API Configuration",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Update Settings",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alpha Vantage API Key",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "News API Key",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "FRED API Key",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save API Keys",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld minutes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Update Interval (minutes)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Keys",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appearance",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable Notifications",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable Sound Alerts",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dark Mode",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Cache",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Preferences",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "About Stock Predictor",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Technology Stack",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0.0",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "A comprehensive macOS app for stock prediction using ensemble machine learning models.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 104
+        }
+      }
+    ]
+  },
+  "version": 1
+}

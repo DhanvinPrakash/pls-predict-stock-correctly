@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusy-primary.dia",
+    "emit-module-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusy-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusy-primary-emit-module.dia",
+    "pch" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusy-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusy-primary.swiftdeps"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/ContentView.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/ImBusyApp.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/ImBusyApp~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/PortfolioManager.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PortfolioManager~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/PredictionService.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/PredictionService~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/SettingsView.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/Stock.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/Stock~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/StockDataService.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/StockDataService~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/alertsView.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/alertsView~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/portfolioview.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/portfolioview~partial.swiftmodule"
+  },
+  "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy/stocklistview.swift" : {
+    "const-values" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview.swiftconstvalues",
+    "dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview.d",
+    "diagnostics" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview.dia",
+    "index-unit-output-path" : "/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview.o",
+    "llvm-bc" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview.bc",
+    "object" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview.o",
+    "swift-dependencies" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview.swiftdeps",
+    "swiftmodule" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/ImBusy.build/Debug/ImBusy.build/Objects-normal/arm64/stocklistview~partial.swiftmodule"
+  }
+}

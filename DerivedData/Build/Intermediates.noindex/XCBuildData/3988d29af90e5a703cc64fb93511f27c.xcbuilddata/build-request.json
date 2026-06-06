@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "dd16fffb8094685b2c4708517d95b8eb3e915da22c7ee7b2ea16605fa0d37570"
+    }
+  ],
+  "containerPath" : "/Users/dhanvin_macbook/Downloads/ImBusy/ImBusy.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx26.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/dhanvin_macbook/Downloads/ImBusy/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
