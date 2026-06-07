@@ -1,6 +1,11 @@
 # StockpredictSON
 
 A macOS app that uses Apple CoreML and Apple Intelligence (on-device LLM) to predict whether you should **Buy**, **Hold**, or **Sell** DBS Group Holdings (SGX: D05) stock. Market data is fetched live from Yahoo Finance, processed into a CSV with a custom target column (`Target_Next_Close`), and used to train a CoreML regression model — all on your Mac, with no data leaving your device.
+it was made simply for any average joe to install and provide information to make their decisions
+currently running predictions for the DBS stock because, why not, might add more stocks. 
+Improvements to be made:
+more info and datapoints to CoreML for better predictions
+fix up the assistant which is currently broken right now as there are some weird line spacings
 
 ## Getting Started
 
