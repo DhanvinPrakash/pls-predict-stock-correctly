@@ -64,9 +64,6 @@ Open Create ML in Xcode (`Xcode → Open Developer Tool → Create ML`), create 
 - **Feature columns:** `Open`, `High`, `Low`, `Close`, `Volume`, `Price`
 - Train and export as `dbsstockpredictor.mlmodel`
 
-```
-Tip: aim for an RMSE below 1.5 on the validation split.
-```
 
 **4. Add the model to Xcode**
 
